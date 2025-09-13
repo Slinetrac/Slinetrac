@@ -33,9 +33,3 @@
 ![Slinetrac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slinetrac&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slinetrac&layout=compact&theme=tokyonight)
-
----
-
-## 🎯 Fun Badges
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Slinetrac.visitor-badge)
-![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
