@@ -4,7 +4,6 @@
 
 ## 🌱 About Me
 - Learning TypeScript and Rust  
-- Exploring open-source projects like [clash-nyanpasu](https://github.com/Slinetrac/clash-nyanpasu)  
 - Enjoy experimenting with dev tools and coding projects  
 - **Currently learning:** Tauri, advanced Rust async, and improving open-source contributions
 
@@ -17,15 +16,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 💻 Projects & Experiments
-- [clash-nyanpasu fork](https://github.com/Slinetrac/clash-nyanpasu) – trying out fixes and experimenting with build setups  
-- Personal TypeScript experiments and small coding projects  
-
-## ⚡ Fun Facts
-- Learning one bug at a time 🐛  
-- Coffee + code = happiness ☕💻  
-- High school student exploring the world of coding 🌍
 
 ---
 
