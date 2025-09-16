@@ -1,11 +1,13 @@
 # Hi, I’m Slinetrac 👋
 
-> A high school student curious about programming and open-source projects.
+> A high school student curious about programming and open-source projects.  
+> Always experimenting, learning, and building cool stuff. 🚀
 
 ## 🌱 About Me
-- Learning TypeScript and Rust  
+- Learning **TypeScript** and **Rust**  
 - Enjoy experimenting with dev tools and coding projects  
-- **Currently learning:** Tauri, advanced Rust async, and improving open-source contributions
+- **Currently exploring:** Tauri, advanced Rust async, and improving open-source contributions  
+- Passionate about writing clean, efficient, and maintainable code  
 
 ## 🛠 Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -21,5 +23,8 @@
 
 ## 📊 GitHub Stats
 ![Slinetrac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slinetrac&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slinetrac&layout=compact&theme=tokyonight)
+
+---
+
+> “Curiosity is the wick in the candle of learning.” 🕯️
