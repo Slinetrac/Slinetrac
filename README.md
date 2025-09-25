@@ -5,7 +5,7 @@
 
 
 ## 🌱 About Me
-- Learning **TypeScript** and **Rust**  
+- Learning **TypeScript**, **Rust**, **Go**, and **Dart**  
 - Exploring **Tauri**, advanced Rust async, and open-source contributions  
 - Passionate about writing clean, efficient, and maintainable code ✨  
 
@@ -15,7 +15,9 @@
 **Languages**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -35,8 +37,8 @@
 ## 🚀 Currently Exploring
 - Building cross-platform apps with **Tauri + Rust**  
 - Contributing to **open-source networking tools**  
-- Experimenting with **Flutter** for mobile  
-- Learning more about **backend with Actix / Node.js**  
+- Experimenting with **Flutter + Dart** for mobile  
+- Learning more about **backend with Actix / Node.js / Go**  
 - UI/UX & design systems: **Figma**, **Radix UI**, **Material Design 3**, **Next.js**, **MUI**, **TanStack**  
 
 **Tools & Frameworks I'm exploring**  
@@ -49,7 +51,7 @@
 
 
 ## 📊 GitHub Stats
-![Slinetrac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slinetrac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Slinetrac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slinetrac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 
 ## ✨ Fun Fact
