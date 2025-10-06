@@ -4,7 +4,7 @@
 > Exploring TypeScript, Rust, Go, Vue, Nuxt, Next.js, and cross-platform development.
 
 ## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,rust,go,react,vue,nuxt,nextjs,tauri,electron,docker,figma)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=ts,rust,go,dart,react,vue,nextjs,nuxt,flutter,electron,tauri,docker)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 ![Slinetrac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slinetrac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
